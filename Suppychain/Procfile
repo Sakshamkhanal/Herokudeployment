@@ -1,1 +1,1 @@
-web: gunicorn Supplychain.wsgi
+web: gunicorn Supplychain.wsgi --log-file -
