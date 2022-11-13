@@ -56,7 +56,7 @@ MIDDLEWARE = [
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
 ]
 
-ROOT_URLCONF = 'Suppychain.urls'
+ROOT_URLCONF = 'Supplychain.urls'
 
 TEMPLATES = [
     {
@@ -74,7 +74,7 @@ TEMPLATES = [
     },
 ]
 
-WSGI_APPLICATION = 'Suppychain.wsgi.application'
+WSGI_APPLICATION = 'Supplychain.wsgi.application'
 
 
 # Database
